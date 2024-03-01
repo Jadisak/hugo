@@ -1,0 +1,1 @@
+body{width:800px;margin:0 auto;font-family:sans-serif}nav ul{list-style:none;padding:4px 0}nav ul a{color:#fff;text-decoration:none}nav ul a:hover{text-decoration:underline}nav ul li{display:inline;margin-right:.5rem;padding:4px 8px;background:#d21616}footer{background:#d21616;padding:6px 12px;color:#fff;font-size:.9em;text-align:center}#map{height:300px}
